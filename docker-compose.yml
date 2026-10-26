@@ -13,4 +13,4 @@ services:
       # reachable both from localhost and from any device on your Tailscale
       # network via the host's Tailscale IP -- no extra network config needed.
       - "7000:7000"
-    restart: unless-stopped
+    restart: always
