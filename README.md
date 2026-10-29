@@ -10,8 +10,8 @@
   <a href="https://github.com/jlleongarcia/Py_RouteTracker/pkgs/container/py_routetracker">
     <img alt="Container" src="https://img.shields.io/badge/ghcr.io-py__routetracker-blue?logo=docker" />
   </a>
-  <a href="https://github.com/jlleongarcia/Py_RouteTracker?tab=AGPL-3.0-1-ov-file">
-    <img alt="Code License" src="https://img.shields.io/badge/License-AGPLv3-blue.svg" />
+  <a href="https://github.com/jlleongarcia/Py_RouteTracker/blob/main/LICENSE">
+    <img alt="Code License" src="https://img.shields.io/badge/License-MIT-blue.svg" />
   </a>
 </div>
 
